@@ -1,0 +1,10 @@
+Pandas Homework 
+                         
+Heroes of Pymoli – Three Observable trends:
+
+ 
+1. Even though men have the majority of the player and purchase count, they had the fewest average purchase price among the other genders. 
+ 
+2. Second one is 20– 24 year old age group contains almost 45% of player count and similar percentage of purchase count. 
+ 
+3. Adults age of 35-39 has an average purchase of $3.60 when compared to any of the other age groups.
